@@ -2,7 +2,7 @@
 
 ### About 
 
-Responsive Screen Design for Aimed Labs Onboarding using Layout Builder.
+Responsive Screen Design using Layout Builder.
 
 
 
