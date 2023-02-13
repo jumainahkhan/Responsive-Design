@@ -1,5 +1,6 @@
 import 'package:aimedlabs/card/card1.dart';
 import 'package:aimedlabs/card/card2.dart';
+import 'package:aimedlabs/card/card3.dart';
 import 'package:flutter/material.dart';
 
 class MyMobileBody extends StatefulWidget {
@@ -24,6 +25,10 @@ class _MyMobileBodyState extends State<MyMobileBody> {
             height: 20,
           ),
           cardTwo(),
+          const SizedBox(
+            height: 20,
+          ),
+          cardThree()
         ],
       ),
     );
